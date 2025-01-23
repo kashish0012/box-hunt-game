@@ -77,10 +77,6 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 - **Reset:** Click the Reset button to restart the game and clear all data.
 
-## Demo Preview 🎥
-
-
-
 ## Available Scripts 🖥️
 
 - `npm run dev`: Start the development server.
