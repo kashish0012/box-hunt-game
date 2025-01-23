@@ -79,7 +79,9 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 ## Demo Preview 🎥
 
-![alt text](image.png)
+
+![alt text](src/assets/image.png)
+
 
 ## Available Scripts 🖥️
 
