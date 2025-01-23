@@ -1,8 +1,8 @@
-#Box Hunt Game 🎮
+# Box Hunt Game 🎮
 
 Box Hunt is an interactive and engaging game where players must react quickly to click a moving red box within a specified time frame. The game tests reaction speed and provides a summary of click data, including the number of clicks and the reaction time for each.
 
-##Features ✨
+## Features ✨
 
 - **🄹️ Interactive Gameplay:** A moving red box that players must click on.
 
@@ -16,7 +16,7 @@ Box Hunt is an interactive and engaging game where players must react quickly to
 
 - **🎯 Dynamic Box Movement:** The red box changes position every 5 seconds during gameplay.
 
-##Technologies Used 🛠️
+## Technologies Used 🛠️
 
 - **Frontend:** React (via Vite)
 
@@ -24,7 +24,7 @@ Box Hunt is an interactive and engaging game where players must react quickly to
 
 - **Development Environment:** Vite for fast builds and hot module replacement (HMR)
 
-##Installation 📦
+## Installation 📦
 
 Clone the Repository
 
@@ -48,7 +48,7 @@ npm run dev
 Open the Game
 Open http://localhost:5173 in your browser.
 
-Project Structure 🗂
+## Project Structure 🗂
 
 ```
 ├── public/          # Public assets
@@ -65,7 +65,7 @@ Project Structure 🗂
 └── README.md         # Project documentation
 ```
 
-##Gameplay Instructions 🎮
+## Gameplay Instructions 🎮
 
 Enter the Game Duration:Input the desired game duration (in seconds) in the input field.
 
@@ -77,11 +77,11 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 - **Reset:** Click the Reset button to restart the game and clear all data.
 
-##Demo Preview 🎥
+## Demo Preview 🎥
 
 
 
-##Available Scripts 🖥️
+## Available Scripts 🖥️
 
 - `npm run dev`: Start the development server.
 
@@ -91,7 +91,7 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 - `npm run lint`: Run linter to check for code quality.
 
-##Future Enhancements 🚀
+## Future Enhancements 🚀
 
 - Add different difficulty levels (faster box movement).
 
@@ -101,7 +101,7 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 - Add a high-score leaderboard.
 
-##Contributing 🧫
+## Contributing 🧫
 
 - Contributions are welcome! To contribute:
 
@@ -115,8 +115,8 @@ Enter the Game Duration:Input the desired game duration (in seconds) in the inpu
 
 - Submit a pull request.
 
-##Acknowledgments 🙊
+## Acknowledgments 🙊
 
-Thanks to Vite for making development lightning-fast.
+- Thanks to Vite for making development lightning-fast.
 
-Inspired by interactive games for reaction time testing.
+- Inspired by interactive games for reaction time testing.
